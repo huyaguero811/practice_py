@@ -11,5 +11,5 @@ print(customer.get('birthday'))
 print(customer.get('celebration', '8 November'))
 
 customer['celebration'] = '8 November'
-print(customer)
+print(custo   mer)
 
